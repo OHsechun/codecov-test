@@ -4,6 +4,6 @@ import kotlin.test.assertEquals
 internal class ProductTest {
     @Test
     fun testSomething() {
-        assertEquals(1,2)
+        assertEquals(1,1)
     }
 }

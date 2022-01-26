@@ -4,7 +4,7 @@ import kotlin.test.assertEquals
 internal class ProductTest {
     @Test
     fun testSomething() {
-        println("hello test2!")
+        println("hello test22!")
         assertEquals(1,1)
     }
 }

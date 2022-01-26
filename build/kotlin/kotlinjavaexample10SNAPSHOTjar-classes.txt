@@ -1,0 +1,1 @@
+/Users/scgw/Documents/workspace/hanwha/kotlin-java-example/build/classes/kotlin/main/Product.class
